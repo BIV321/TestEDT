@@ -30,6 +30,24 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <attributes uuid="c8acffb1-91ad-4556-8130-ceb315acd345">
+    <name>РеквизитРазраб2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит разраб2</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <attributes uuid="2660b505-2e5c-41b8-898f-e33ab9f6b0ca">
     <name>РеквизитРазраб1</name>
     <synonym>
