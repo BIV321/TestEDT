@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e33b42e8-5013-4884-9567-c6d8c2da0005">
+  <name>НайтиТоварПоНазванию</name>
+  <synonym>
+    <key>ru</key>
+    <value>Найти товар по названию</value>
+  </synonym>
+  <group>ActionsPanelTools</group>
+  <representation>Auto</representation>
+</mdclass:CommonCommand>
